@@ -1,4 +1,4 @@
-const svg = `<?xml version="1.0" encoding="utf-8"?>
+const svgInteractive = `<?xml version="1.0" encoding="utf-8"?>
 <svg id="gdsinteractive" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 1920 1280" enable-background="new 0 0 1920 1280" xml:space="preserve">
 	 <style>
